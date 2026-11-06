@@ -1,0 +1,7 @@
+Product,Stock,Threshold,Target Stock,Unit Price
+Milk,5,10,25,60.0
+Rice,15,5,25,300.0
+Oil,4,10,20,150.0
+Apples,12,6,18,100.0
+bread,0,100,500,5.0
+butter,0,100,500,5.0
